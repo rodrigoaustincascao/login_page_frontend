@@ -1,0 +1,25 @@
+{
+	"name": "Login Page",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+"remoteUser": "node",
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"Angular.ng-template",
+			// "johnpapa.Angular2",	
+			"Gruntfuggly.todo-tree",
+			"esbenp.prettier-vscode",
+			"EditorConfig.EditorConfig",
+			"waderyan.gitblame",
+			"GitLab.gitlab-workflow",
+			"dbaeumer.vscode-eslint",
+			"cyrilletuzi.angular-schematics",
+			"bradlc.vscode-tailwindcss",
+			"csstools.postcss"
+
+		]
+	}
+}
+}
